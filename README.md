@@ -20,6 +20,11 @@ To simplify conversion of these machines' video output I thought it might be wor
 ## Status: UNTESTED
 - 23-Nov-2024: initial design
 
+## Initial Build
+This is my dodgy "hand-made" version I whipped together when trying to get video out of a УМПК-Р, which convinced me that a proper module might be better for future use.<br>
+
+![Brett's dodgy handmade version](86RK_video_dodgy_stripboard_version.jpg)
+
 ## Versions
 I've made two versions: one with an RCA phono jack for testing/troubleshooting a machine without modifying too much and a second with a pin header for installation into a machine.
 
