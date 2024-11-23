@@ -5,7 +5,9 @@ Well, the machine outputs a B&W-only video signal but you know what I mean.<br>
 
 ![86RK video signal](86RK_video_signal.jpg)
 
-The Intel 8275 generates a horizontal (HRTC) and vertical (VRTC) retrace signals which are combined with the character bitstream to produce the video output.  The image above shows on scanline with text.<br>
+The Intel 8275 generates a horizontal (HRTC) and vertical (VRTC) retrace signals which are combined with the character bitstream (character ROM to shift register) to produce the video output.  The image above shows on scanline with text.<br>
+
+Sergey's implemention additionaly includes the reverse video (RVV) signal but this isn't implemented in all versions, so I'm ignoring (for now).<br>
 
 The 86RK was serially produced by various factories in the Soviet Union resulting in machines such as the АЛЬФА-БК, ПАРТНЕР-01.01 and УМПК-Р.  These machines all output an RF-modulated video signal which is not convenient these days. <br>
 
