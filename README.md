@@ -2,7 +2,7 @@
 The РАДИО-86РК was a Soviet-era homebrew/DIY computer based on their clone of the Intel 8080, the КР580ВМ80А.<br>
 [Sergey Kiselev](https://github.com/skiselev) has [made a very nice modern recreation](https://github.com/skiselev/radio-86rk) that, importantly, outputs a "composite" video signal.<br>
 
-Well, the machine outputs a B&W-only video signal but you know what I mean.<br>
+Yes yes, "composite" means colour/luma+chroma but the machine outputs a luma/B&W-only video signal ... but you know what I mean ... the yellow RCA jack.<br>
 
 ![86RK video signal](86RK_video_signal.jpg)
 
