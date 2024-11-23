@@ -24,4 +24,19 @@ Selected the "same sky" part RCJ-014 as the phono jack.<br>
 ### [PIN Header](/Pin_header_output/)
 ![Pin header version](86RK_Video_Pin.jog)
 
+## Bill of materials
+- 2 x 1kΩ resistor
+- 1 x 1.5kΩ resistor
+- 1 x 75Ω resistor
+- 1 x 150Ω resistor
+- 1 x 2N3904 transistor
+- 1 x 47µF electrolytic capacitor (pitch 2.5mm)
+- 1 x 22nF ceramic capacitor (pitch 2.5mm)
+- 1 x M3 bolt/nut/washer (if required)
 
+For RCA phono jack version:
+- 1 x RCJ-014 (or similar) RCA phono jack
+- 1 x 4-pin header (pitch 2.54mm)
+
+For pin header version:
+- 1 x 5-pin header (pitch 2.54mm)
