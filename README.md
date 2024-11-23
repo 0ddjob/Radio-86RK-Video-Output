@@ -25,6 +25,7 @@ I've made two versions: one with an RCA phono jack for testing and a second with
 
 ### [RCA Jack](/RCA_output/)
 Selected the "same sky" part RCJ-014 as the phono jack.<br>
+
 ![RCA Jack version](86RK_Video_RCA.jpg)
 
 ### [PIN Header](/Pin_header_output/)
