@@ -7,6 +7,8 @@ Well, the machine outputs a B&W-only video signal but you know what I mean.<br>
 
 The Intel 8275 (Soviet: КР580ВГ75) generates a horizontal (HRTC) and vertical (VRTC) retrace signals which are combined with the character bitstream (character ROM to shift register) to produce the video output.  The image above shows on scanline with text.<br>
 
+The schematic below is a simplified version of Sergey's highlighting how the video signal is generated.<br>
+
 ![86RK video output stage](86RK_video_output.png)
 
 Sergey's implemention additionaly includes the reverse video (RVV) signal but this isn't implemented in all versions, so I'm ignoring (for now).<br>
