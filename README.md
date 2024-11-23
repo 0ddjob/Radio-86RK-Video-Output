@@ -39,7 +39,7 @@ Selected the "same sky" part RCJ-014 as the phono jack.  Kicad library & datashe
 - 1 x 2N3904 transistor
 - 1 x 47µF electrolytic capacitor (pitch 2.5mm)
 - 1 x 22nF ceramic capacitor (pitch 2.5mm)
-- 1 x M3 bolt/nut/washer (if required)
+- 1 x M3 bolt/nut/washer/spacer (if required)
 
 For RCA phono jack version:
 - 1 x RCJ-014 (or similar) RCA phono jack
