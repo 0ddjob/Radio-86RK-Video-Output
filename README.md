@@ -11,7 +11,7 @@ The schematic below is a simplified version of Sergey's schematic highlighting h
 
 ![86RK video output stage](86RK_video_output.png)
 
-Sergey's implemention additionaly includes the reverse video (RVV) signal but this isn't implemented in all versions, so I'm ignoring (for now).<br>
+Sergey's implemention additionaly includes the reverse video (RVV) signal but this isn't implemented in all versions of the 86RK, so I'm ignoring (for now).<br>
 
 The 86RK was serially produced by various factories in the Soviet Union resulting in machines such as the АЛЬФА-БК, ПАРТНЕР-01.01 and УМПК-Р.  These machines all output an RF-modulated video signal which is not convenient these days. <br>
 
