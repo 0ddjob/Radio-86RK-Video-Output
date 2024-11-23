@@ -21,10 +21,10 @@ To simplify conversion of these machines' video output I thought it might be wor
 - 23-Nov-2024: initial design
 
 ## Versions
-I've made two versions: one with an RCA phono jack for testing and a second with a pin header for installation into a machine.
+I've made two versions: one with an RCA phono jack for testing/troubleshooting a machine without modifying too much and a second with a pin header for installation into a machine.
 
 ### [RCA Jack](/RCA_output/)
-Selected the "same sky" part RCJ-014 as the phono jack.<br>
+Selected the "same sky" part RCJ-014 as the phono jack.  Kicad library & datasheet are incuded.<br>
 
 ![RCA Jack version](86RK_Video_RCA.jpg)
 
