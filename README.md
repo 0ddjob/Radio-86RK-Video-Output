@@ -20,6 +20,7 @@ To simplify conversion of these machines' video output I thought it might be wor
 
 ## Status: UNTESTED
 - 23-Nov-2024: initial design
+- 25-Nov-2024: test PCBs ordered from PCBWAY
 
 ## Initial Build
 This is my dodgy "hand-made" version I whipped together when trying to get video out of a УМПК-Р, which convinced me that a proper module might be better for future use.<br>
