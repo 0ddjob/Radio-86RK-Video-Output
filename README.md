@@ -18,9 +18,10 @@ The 86RK was serially produced by various factories in the Soviet Union resultin
 
 To simplify conversion of these machines' video output I thought it might be worth implementing Sergey's video output stage as a discrete module that could be installed in these older machines.<br>
 
-## Status: UNTESTED
+## Status: PARTIALLY TESTED
 - 23-Nov-2024: initial design
 - 25-Nov-2024: test PCBs ordered from PCBWAY
+- 17-Dec-2024: [initial testing](https://youtu.be/Y1xS1cXXh0Q) on УМПК-Р but this machine has an underlying fault (DRAM?) so need to fix that first
 
 ## Initial Build
 This is my dodgy "hand-made" version I whipped together when trying to get video out of a УМПК-Р, which convinced me that a proper module might be better for future use.<br>
